@@ -42,7 +42,7 @@ I'm a **Systems & Biomedical Engineering student** with a deep passion for using
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nada%20Hesham-CE93D8?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/nada-hesham-b73130317?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nada%20Hesham-CE93D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-hesham-b73130317?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-Nada%20Hesham-F48FB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nada.hesham.mohammed@gmail.com)
 </div>
 
