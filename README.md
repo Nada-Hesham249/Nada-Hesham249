@@ -39,11 +39,7 @@ I'm a **Systems & Biomedical Engineering student** with a deep passion for using
 ---
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nada-Hesham249&show_icons=true&title_color=CE93D8&icon_color=BA68C8&text_color=AB47BC&bg_color=fdf6ff&border_color=E1BEE7" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Hesham249&layout=compact&title_color=CE93D8&text_color=AB47BC&bg_color=fdf6ff&border_color=E1BEE7" height="150"/>
-</div>
+
 
 <br/>
 
