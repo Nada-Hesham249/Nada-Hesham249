@@ -13,7 +13,6 @@
 I'm a **Systems & Biomedical Engineering student** with a deep passion for using technology to advance healthcare.
 
 - 🧠 Learning **Web Development, Computer Vision, Embedded Systems & Machine Learning**
-- ⚡ Currently diving into **Embedded Systems & hardware-software integration**
 - 🌱 Always curious about **emerging technologies** that can transform lives
 
 ---
