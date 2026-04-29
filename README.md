@@ -1,5 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&pause=1000&color=CE93D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I+am+Nada+Hesham;I+am+a+Biomedical+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&pause=1000&color=CE93D8&center=true&vCenter=true&width=600&lines=Hi,+I+am+Nada+Hesham+%F0%9F%91%8B;I+am+a+Biomedical+Engineer" alt="Typing SVG" />
+</a>
 <br/>
 
 *Bridging the gap between engineering and medicine through intelligent systems.*
